@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>270CD04B-0A34-4F33-A06C-A3C2DF146608</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TaUpstairs</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5472BF08-538B-4956-AE4D-17E5A3822B50</key>
+		<string>ssh://git.oschina.net/mrhong/taupst4ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TaUpstairs.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5472BF08-538B-4956-AE4D-17E5A3822B50</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://git.oschina.net/mrhong/taupst4ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5472BF08-538B-4956-AE4D-17E5A3822B50</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5472BF08-538B-4956-AE4D-17E5A3822B50</string>
+			<key>IDESourceControlWCCName</key>
+			<string>taupst</string>
+		</dict>
+	</array>
+</dict>
+</plist>

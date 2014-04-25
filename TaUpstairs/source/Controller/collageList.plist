@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>厦门大学</key>
+	<string>00001</string>
+	<key>华侨大学</key>
+	<string>00002</string>
+	<key>福州大学</key>
+	<string>00003</string>
+	<key>福建师范大学</key>
+	<string>00004</string>
+	<key>福建农林大学</key>
+	<string>00005</string>
+	<key>福建医科大学</key>
+	<string>00006</string>
+	<key>福建工程学院</key>
+	<string>00007</string>
+	<key>福建中医药大学</key>
+	<string>00008</string>
+	<key>闽江学院</key>
+	<string>00009</string>
+	<key>福建警察学院</key>
+	<string>00010</string>
+	<key>福建江夏学院</key>
+	<string>00011</string>
+	<key>福州外语外贸学院</key>
+	<string>00012</string>
+	<key>集美大学</key>
+	<string>00013</string>
+	<key>厦门理工学院</key>
+	<string>00014</string>
+	<key>泉州师范学院</key>
+	<string>00015</string>
+	<key>闽南理工学院</key>
+	<string>00016</string>
+	<key>仰恩大学</key>
+	<string>00017</string>
+	<key>闽南师范大学</key>
+	<string>00018</string>
+	<key>武夷学院</key>
+	<string>00019</string>
+	<key>宁德师范学院</key>
+	<string>00020</string>
+	<key>三明学院</key>
+	<string>00021</string>
+	<key>龙岩学院</key>
+	<string>00022</string>
+	<key>莆田学院</key>
+	<string>00023</string>
+	<key>华南女子学院</key>
+	<string>00024</string>
+	<key>福建对外经济贸易职业技术学院</key>
+	<string>00025</string>
+</dict>
+</plist>
