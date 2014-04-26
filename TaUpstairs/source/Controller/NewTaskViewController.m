@@ -166,9 +166,15 @@
     //self.timeButton.titleLabel.text = [[date description] substringToIndex:16];
 //    [self.timeButton setTitle:[NSString stringWithFormat:@"此任务截止到 %@",[[date description] substringToIndex:16]]
 //                     forState:UIControlStateNormal];
-    [self.timeButton setTitle:[[date description] substringToIndex:19]
+    
+    NSDateFormatter *formatter = [NSDateFormatter new];
+    NSLocale *locale = [[NSLocale alloc] initWithLocaleIdentifier:@"zh"];
+    [formatter setLocale:locale];
+    [formatter setDateFormat:@"yyyy-MM-dd a hh:mm"];
+    
+    [self.timeButton setTitle:[formatter stringFromDate:date]
                      forState:UIControlStateNormal];
     [self dismissViewControllerAnimated:YES completion:nil];
-    NSLog(@"%@",[date description]);
+//NSLog(@"%@",[formatter stringFromDate:date]);
 }
 @end
